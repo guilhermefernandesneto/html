@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>"Crocodilos"</title>
+    </head>
+    <body>
+    
+        <h1>Crocodilos</h1>
+        <p></p>
+    
+        <p>
+        <img src="https://www.kasandbox.org/programming-images/animals/crocodiles.png" width="300">
+        <br> 
+        Os crocodilos ou Crocodylidae são uma família de répteis com quatorze espécies. O termo "crocodilo" também é usado às vezes num sentido mais amplo para se referir à ordem Crocodylia (crocodilianos). Os crocodilos verdadeiros (família Crocodylidae), os gaviais (família Gavialidae) e os caimões, os aligatores e jacarés (família Alligatoridae).
+        <p>Os crocodilos vivem nas Américas, África, Ásia e Austrália. A maioria dos crocodilos vivem nas margens de rios, enquanto os da Austrália e ilhas do Pacífico também frequentam o mar. Os crocodilos não possuem predadores naturais, por se tratar de um animal de topo na cadeia alimentar.
+
+        </p>
+        
+        
+        
+    </body>
+</html>
