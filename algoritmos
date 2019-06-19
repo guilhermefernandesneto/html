@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Algoritmos</title>
+    <
+  </head>
+  <body>
+    
+    <h1>Algoritmos</h1>
+    <hr>
+    <p>
+Uma animação do algoritmo de ordenação quicksort de uma matriz de valores ao acaso. As barras vermelhas marcam o elemento pivô. No início da animação, estando o elemento para o lado direito, é escolhido como o pivô.
+<p>Algoritmo é uma sequência finita de instruções bem definidas e não ambíguas, cada uma das quais devendo ser executadas mecânica ou eletronicamente em um intervalo de tempo finito e com uma quantidade de esforço finita.
+
+<p>O conceito de algoritmo existe há séculos e o uso do conceito pode ser atribuído a matemáticos gregos, por exemplo a Peneira de Eratóstenes e o algoritmo de Euclides.
+
+<p>O conceito de algoritmo é frequentemente ilustrado pelo exemplo de uma receita culinária, embora muitos algoritmos sejam mais complexos. Eles podem repetir passos (fazer iterações) ou necessitar de decisões (tais como comparações ou lógica) até que a tarefa seja completada. Um algoritmo corretamente executado não irá resolver um problema se estiver implementado incorretamente ou se não for apropriado ao problema. Jean Luc Chabert
+
+<p>Um algoritmo não representa, necessariamente, um programa de computador, e sim os passos necessários para realizar uma tarefa. Sua implementação pode ser feita por um computador, por outro tipo de autômato ou mesmo por um ser humano. Diferentes algoritmos podem realizar a mesma tarefa usando um conjunto diferenciado de instruções em mais ou menos tempo, espaço ou esforço do que outros. Tal diferença pode ser reflexo da complexidade computacional aplicada, que depende de estruturas de dados adequadas ao algoritmo. Por exemplo, um algoritmo para se vestir pode especificar que você vista primeiro as meias e os sapatos antes de vestir a calça enquanto outro algoritmo especifica que você deve primeiro vestir a calça e depois as meias e os sapatos. Fica claro que o primeiro algoritmo é mais difícil de executar que o segundo apesar de ambos levarem ao mesmo resultado. 
+
+<p>O conceito de um algoritmo foi formalizado em 1936 pela Máquina de Turing de Alan Turing e pelo cálculo lambda de Alonzo Church, que formaram as primeiras fundações da Ciência da computação.
+<h1>Etimologia</h1>
+<hr>
+  
+<p>Os historiadores da palavra algoritmo encontraram a origem no sobrenome, Al-Khwarizmi, do matemático persa do século IX Mohamed ben Musa, cujas obras foram traduzidas no ocidente cristão no século XII, tendo uma delas recebido o nome Algorithmi de numero indorum, sobre os algoritmos usando o sistema de numeração decimal (indiano). Outros autores, entretanto, defendem a origem da palavra em Al-goreten (raiz - conceito que se pode aplicar aos cálculos). "Álgebra" e "algorismo" também formam formas corrompidas da palavra, pois as pessoas esqueciam as derivações originais. O dicionário "Vollständiges Mathematisches Lexicon" (Leipzig, 1747) refere a palavra "Algorithmus"; nesta designação estão combinadas as noções de quatro cálculos aritméticos, nomeadamente a adição, multiplicação, subtração e divisão. A frase "algorithmus infinitesimalis" foi na altura utilizada para significar; "maneiras de calcular com quantidades infinitésimas" (pequenas), uma invenção de Leibnitz. Também é conhecido no meio financeiro, como "algos".</p>
+
+  </body>
+</html>
